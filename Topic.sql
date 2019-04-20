@@ -1,6 +1,6 @@
 CREATE TABLE Topic
 (
-  Id       INT(150) NOT NULL,       
-  TopicName           VARCHAR(150) NOT NULL,  
+  Id       INT NOT NULL,       
+  TopicName           VARCHAR (50),  
   PRIMARY KEY     (Id)                 
 );

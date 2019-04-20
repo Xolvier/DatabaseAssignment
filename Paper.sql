@@ -1,8 +1,8 @@
 CREATE TABLE Paper
 (
-  Id       INT(150) NOT NULL,       
-  Title            VARCHAR(150) NOT NULL,  
-  Abstract          VARCHAR(150) NOT NULL, 
-  FileName          VARCHAR(150) NOT NULL,     
+  Id       INT NOT NULL,       
+  Title            VARCHAR (100),  
+  Abstract          VARCHAR (1000), 
+  FileName          VARCHAR (100),     
   PRIMARY KEY     (Id)                 
 );
