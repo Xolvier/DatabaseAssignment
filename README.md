@@ -20,7 +20,7 @@ You can do this by using the following command : CREATE DATABASE nameofdatabase
 5. Run all of the SQL files with Create in their names.
  
 How to run SQL Script in command line : source path to file/file.sql 
-Here is an example of how to run a SQL script from the command line client : source C:/Users/andym/Desktop/SqlScripts/CreateScripts
+Here is an example of how to run a SQL script from the command line client : source C:/Users/andym/Desktop/SqlScripts/CreateScripts/CreateAuthor.sql
 
 6. Repeat step 5 but with the INSERT files from downloaded files
 
