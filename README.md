@@ -22,7 +22,7 @@ You can do this by using the following command : CREATE DATABASE nameofdatabase
 How to run SQL Script in command line : source path to file/file.sql 
 Here is an example of how to run a SQL script from the command line client : source C:/Users/andym/Desktop/SqlScripts/CreateScripts
 
-6. Repeat step 4 but with the INSERT files from downloaded files
+6. Repeat step 5 but with the INSERT files from downloaded files
 
 7. Check and verify that the database tables are populated and present by running the VerifyTables.SQL and  VerifyData.SQL files
 respectively
