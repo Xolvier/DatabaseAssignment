@@ -5,7 +5,7 @@ CREATE TABLE Reviewer
   AuthorFeedback          VARCHAR (500), 
   LastName          VARCHAR (100),     
   CommiteeFeedback          VARCHAR (500), 
-  PhoneNum          INT, 
+  PhoneNum          BIGINT, 
   Affiliation          VARCHAR (50), 
   PRIMARY KEY     (EmailAddr)                 
 );
