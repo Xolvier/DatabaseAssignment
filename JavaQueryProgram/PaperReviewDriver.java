@@ -8,8 +8,8 @@ public class PaperReviewDriver {
 	
 	   static final String JDBC_DRIVER = "com.mysql.jdbc.Driver";  //DRIVER LOCATION
 	   static final String DataBaseURL = "jdbc:mysql://localhost/JavaAppV2"; //ENTER NAME OF DATABASE
-	   static final String USERNAME = "root"; //ENTER YOUR DB USERNAME
-	   static final String PASSWORD = "add43t2fefWEFWa"; //ENTER YOUR DBPASSWORD
+	   static final String USERNAME = "USERNAME GOES HERE"; //ENTER YOUR DB USERNAME
+	   static final String PASSWORD = "PASS GOES HERE"; //ENTER YOUR DBPASSWORD
 	
 	public static void main(String[] args) throws ClassNotFoundException, IOException {
 		    Connection connect = null;
